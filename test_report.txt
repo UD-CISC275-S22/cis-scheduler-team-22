@@ -6,251 +6,25 @@ PASS src/Tests/viewDegreePlansListTest.test.tsx
   ● Console
 
     console.error
-      Warning: The tag <text> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
-          at text
-          at span
-          at div
-          at div
-          at div
-          at div
-          at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
-          at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:42:9)
-
-      at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
-      at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
-      at createElement (node_modules/react-dom/cjs/react-dom.development.js:9027:9)
-      at createInstance (node_modules/react-dom/cjs/react-dom.development.js:10192:20)
-      at completeWork (node_modules/react-dom/cjs/react-dom.development.js:19464:28)
-      at completeUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22812:16)
-      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22787:5)
-      at workLoopSync (node_modules/react-dom/cjs/react-dom.development.js:22707:5)
-
-    console.error
       DOMException {}
 
 PASS src/Tests/viewDegreePlanTest.test.tsx
-  ● Console
-
-    console.error
-      Warning: The tag <text> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
-          at text
-          at span
-          at div
-          at div
-          at div
-          at div
-          at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
-          at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:42:9)
-
-      at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
-      at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
-      at createElement (node_modules/react-dom/cjs/react-dom.development.js:9027:9)
-      at createInstance (node_modules/react-dom/cjs/react-dom.development.js:10192:20)
-      at completeWork (node_modules/react-dom/cjs/react-dom.development.js:19464:28)
-      at completeUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22812:16)
-      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22787:5)
-      at workLoopSync (node_modules/react-dom/cjs/react-dom.development.js:22707:5)
-
 PASS src/interfaces/DegreePlan.test.tsx
 PASS src/interfaces/Course.test.tsx
 PASS src/Tests/editCourse.test.tsx
-  ● Console
-
-    console.error
-      Warning: The tag <text> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
-          at text
-          at span
-          at div
-          at div
-          at div
-          at div
-          at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
-          at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:42:9)
-
-      at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
-      at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
-      at createElement (node_modules/react-dom/cjs/react-dom.development.js:9027:9)
-      at createInstance (node_modules/react-dom/cjs/react-dom.development.js:10192:20)
-      at completeWork (node_modules/react-dom/cjs/react-dom.development.js:19464:28)
-      at completeUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22812:16)
-      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22787:5)
-      at workLoopSync (node_modules/react-dom/cjs/react-dom.development.js:22707:5)
-
 PASS src/Tests/addCourse.test.tsx
-  ● Console
-
-    console.error
-      Warning: The tag <text> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
-          at text
-          at span
-          at div
-          at div
-          at div
-          at div
-          at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
-          at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:42:9)
-
-      at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
-      at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
-      at createElement (node_modules/react-dom/cjs/react-dom.development.js:9027:9)
-      at createInstance (node_modules/react-dom/cjs/react-dom.development.js:10192:20)
-      at completeWork (node_modules/react-dom/cjs/react-dom.development.js:19464:28)
-      at completeUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22812:16)
-      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22787:5)
-      at workLoopSync (node_modules/react-dom/cjs/react-dom.development.js:22707:5)
-
 PASS src/Tests/viewSemesterTest.test.tsx
-  ● Console
-
-    console.error
-      Warning: The tag <text> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
-          at text
-          at span
-          at div
-          at div
-          at div
-          at div
-          at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
-          at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:42:9)
-
-      at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
-      at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
-      at createElement (node_modules/react-dom/cjs/react-dom.development.js:9027:9)
-      at createInstance (node_modules/react-dom/cjs/react-dom.development.js:10192:20)
-      at completeWork (node_modules/react-dom/cjs/react-dom.development.js:19464:28)
-      at completeUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22812:16)
-      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22787:5)
-      at workLoopSync (node_modules/react-dom/cjs/react-dom.development.js:22707:5)
-
 PASS src/Tests/editSemester.test.tsx
   ● Console
-
-    console.error
-      Warning: The tag <text> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
-          at text
-          at span
-          at div
-          at div
-          at div
-          at div
-          at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
-          at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:42:9)
-
-      at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
-      at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
-      at createElement (node_modules/react-dom/cjs/react-dom.development.js:9027:9)
-      at createInstance (node_modules/react-dom/cjs/react-dom.development.js:10192:20)
-      at completeWork (node_modules/react-dom/cjs/react-dom.development.js:19464:28)
-      at completeUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22812:16)
-      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22787:5)
-      at workLoopSync (node_modules/react-dom/cjs/react-dom.development.js:22707:5)
 
     console.error
       DOMException {}
 
 PASS src/Tests/editDegreePlan.test.tsx
-  ● Console
-
-    console.error
-      Warning: The tag <text> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
-          at text
-          at span
-          at div
-          at div
-          at div
-          at div
-          at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
-          at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:42:9)
-
-      at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
-      at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
-      at createElement (node_modules/react-dom/cjs/react-dom.development.js:9027:9)
-      at createInstance (node_modules/react-dom/cjs/react-dom.development.js:10192:20)
-      at completeWork (node_modules/react-dom/cjs/react-dom.development.js:19464:28)
-      at completeUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22812:16)
-      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22787:5)
-      at workLoopSync (node_modules/react-dom/cjs/react-dom.development.js:22707:5)
-
 PASS src/Tests/viewCoursePool.test.tsx
-  ● Console
-
-    console.error
-      Warning: The tag <text> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
-          at text
-          at span
-          at div
-          at div
-          at div
-          at div
-          at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
-          at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:42:9)
-
-      at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
-      at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
-      at createElement (node_modules/react-dom/cjs/react-dom.development.js:9027:9)
-      at createInstance (node_modules/react-dom/cjs/react-dom.development.js:10192:20)
-      at completeWork (node_modules/react-dom/cjs/react-dom.development.js:19464:28)
-      at completeUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22812:16)
-      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22787:5)
-      at workLoopSync (node_modules/react-dom/cjs/react-dom.development.js:22707:5)
-
 PASS src/Tests/viewCourse.test.tsx
-  ● Console
-
-    console.error
-      Warning: The tag <text> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
-          at text
-          at span
-          at div
-          at div
-          at div
-          at div
-          at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
-          at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:42:9)
-
-      at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
-      at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
-      at createElement (node_modules/react-dom/cjs/react-dom.development.js:9027:9)
-      at createInstance (node_modules/react-dom/cjs/react-dom.development.js:10192:20)
-      at completeWork (node_modules/react-dom/cjs/react-dom.development.js:19464:28)
-      at completeUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22812:16)
-      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22787:5)
-      at workLoopSync (node_modules/react-dom/cjs/react-dom.development.js:22707:5)
-
 PASS src/interfaces/Requirements.test.tsx
 PASS src/App.test.tsx
-  ● Console
-
-    console.error
-      Warning: The tag <text> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter.
-          at text
-          at span
-          at div
-          at div
-          at div
-          at div
-          at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
-          at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:42:9)
-
-      at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
-      at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
-      at createElement (node_modules/react-dom/cjs/react-dom.development.js:9027:9)
-      at createInstance (node_modules/react-dom/cjs/react-dom.development.js:10192:20)
-      at completeWork (node_modules/react-dom/cjs/react-dom.development.js:19464:28)
-      at completeUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22812:16)
-      at performUnitOfWork (node_modules/react-dom/cjs/react-dom.development.js:22787:5)
-      at workLoopSync (node_modules/react-dom/cjs/react-dom.development.js:22707:5)
-
 -----------------------------|---------|----------|---------|---------|-----------------------------
 File                         | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s           
 -----------------------------|---------|----------|---------|---------|-----------------------------
@@ -283,5 +57,5 @@ All files                    |   65.26 |    56.18 |   70.56 |   65.26 |
 Test Suites: 13 passed, 13 total
 Tests:       52 passed, 52 total
 Snapshots:   0 total
-Time:        17.186 s
+Time:        16.394 s
 Ran all test suites.
