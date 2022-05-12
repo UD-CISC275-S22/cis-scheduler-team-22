@@ -15,7 +15,7 @@ PASS src/Tests/viewDegreePlansListTest.test.tsx
           at div
           at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
           at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:37:9)
+          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:41:9)
 
       at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
       at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
@@ -42,7 +42,7 @@ PASS src/Tests/viewDegreePlanTest.test.tsx
           at div
           at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
           at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:37:9)
+          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:41:9)
 
       at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
       at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
@@ -68,7 +68,7 @@ PASS src/Tests/editCourse.test.tsx
           at div
           at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
           at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:37:9)
+          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:41:9)
 
       at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
       at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
@@ -92,7 +92,7 @@ PASS src/Tests/addCourse.test.tsx
           at div
           at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
           at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:37:9)
+          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:41:9)
 
       at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
       at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
@@ -116,7 +116,7 @@ PASS src/Tests/viewSemesterTest.test.tsx
           at div
           at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
           at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:37:9)
+          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:41:9)
 
       at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
       at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
@@ -140,7 +140,7 @@ PASS src/Tests/editSemester.test.tsx
           at div
           at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
           at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:37:9)
+          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:41:9)
 
       at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
       at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
@@ -167,7 +167,7 @@ PASS src/Tests/editDegreePlan.test.tsx
           at div
           at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
           at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:37:9)
+          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:41:9)
 
       at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
       at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
@@ -191,7 +191,7 @@ PASS src/Tests/viewCoursePool.test.tsx
           at div
           at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
           at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:37:9)
+          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:41:9)
 
       at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
       at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
@@ -215,7 +215,7 @@ PASS src/Tests/viewCourse.test.tsx
           at div
           at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
           at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:37:9)
+          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:41:9)
 
       at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
       at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
@@ -240,7 +240,7 @@ PASS src/App.test.tsx
           at div
           at ViewDegreePlansList (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/Compontents/viewDegreePlansList.tsx:24:5)
           at div
-          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:37:9)
+          at App (/home/runner/work/cis-scheduler-team-22/cis-scheduler-team-22/src/App.tsx:41:9)
 
       at printWarning (node_modules/react-dom/cjs/react-dom.development.js:67:30)
       at error (node_modules/react-dom/cjs/react-dom.development.js:43:5)
@@ -254,9 +254,9 @@ PASS src/App.test.tsx
 -----------------------------|---------|----------|---------|---------|-----------------------------
 File                         | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s           
 -----------------------------|---------|----------|---------|---------|-----------------------------
-All files                    |    66.8 |    57.05 |   71.01 |    66.8 |                             
- src                         |   93.33 |    66.66 |      60 |   93.33 |                             
-  App.tsx                    |   93.33 |    66.66 |      60 |   93.33 | 122                         
+All files                    |   66.59 |    56.93 |   71.01 |   66.59 |                             
+ src                         |   76.66 |    58.33 |      60 |   76.66 |                             
+  App.tsx                    |   76.66 |    58.33 |      60 |   76.66 | 32,35,38,57-59,128          
  src/Compontents             |   62.08 |    52.32 |   67.59 |   62.08 |                             
   addCourse.tsx              |   69.01 |    68.96 |      75 |   69.01 | 189-222,235,283,369,376,419 
   editCourse.tsx             |    87.5 |       60 |     100 |    87.5 | 35,41,47                    
@@ -283,5 +283,5 @@ All files                    |    66.8 |    57.05 |   71.01 |    66.8 |
 Test Suites: 13 passed, 13 total
 Tests:       52 passed, 52 total
 Snapshots:   0 total
-Time:        18.623 s
+Time:        12.681 s
 Ran all test suites.
