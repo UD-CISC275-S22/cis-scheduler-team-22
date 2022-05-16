@@ -12,16 +12,34 @@ PASS src/Tests/viewSemesterTest.test.tsx
 PASS src/Tests/editSemester.test.tsx
 PASS src/Tests/editDegreePlan.test.tsx
 PASS src/Tests/viewCoursePool.test.tsx
-PASS src/Tests/viewCourse.test.tsx
+FAIL src/Tests/viewCourse.test.tsx
+  ● ViewCourse tests › clicking the switch makes the information and buttons appear
+
+    expect(received).toHaveLength(expected)
+
+    Expected length: 1
+    Received length: 0
+    Received array:  []
+
+      36 |             )
+      37 |         ).toHaveLength(1);
+    > 38 |         expect(screen.queryAllByText(/Remove course/i)).toHaveLength(1);
+         |                                                         ^
+      39 |         expect(screen.queryAllByText(/Move to Pool/i)).toHaveLength(1);
+      40 |         courseSwitch.click();
+      41 |         expect(
+
+      at Object.<anonymous> (src/Tests/viewCourse.test.tsx:38:57)
+
 PASS src/interfaces/Requirements.test.tsx
 PASS src/App.test.tsx
 -----------------------------|---------|----------|---------|---------|-----------------------------
 File                         | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s           
 -----------------------------|---------|----------|---------|---------|-----------------------------
-All files                    |   62.68 |    56.31 |   71.98 |   62.68 |                             
+All files                    |   62.68 |    56.99 |   71.98 |   62.68 |                             
  src                         |   69.69 |    55.55 |      60 |   69.69 |                             
   App.tsx                    |   69.69 |    55.55 |      60 |   69.69 | 25,28,31,46-47,50,55-57,90  
- src/Compontents             |   57.78 |    52.01 |   68.53 |   57.78 |                             
+ src/Compontents             |   57.78 |    52.96 |   68.53 |   57.78 |                             
   ImportCSV.tsx              |       0 |        0 |       0 |       0 | 29-172                      
   addCourse.tsx              |   69.01 |    68.96 |      75 |   69.01 | 190-223,236,284,370,377,420 
   editCourse.tsx             |    87.5 |       60 |     100 |    87.5 | 35,41,47                    
@@ -31,7 +49,7 @@ All files                    |   62.68 |    56.31 |   71.98 |   62.68 |
   readJSON.tsx               |     100 |      100 |     100 |     100 |                             
   viewCourse.tsx             |   66.66 |    72.09 |      72 |   66.66 | 39-62,69,98,104,110,213-237 
   viewCoursePool.tsx         |   22.58 |       10 |      40 |   22.58 | 25-63,84,108                
-  viewDegreePlan.tsx         |   91.89 |    86.36 |     100 |   91.89 | 36,55,72                    
+  viewDegreePlan.tsx         |   91.89 |    89.28 |     100 |   91.89 | 36,55,72                    
   viewDegreePlansList.tsx    |   84.61 |    85.71 |   88.23 |   84.61 | 342-346                     
   viewSemester.tsx           |   88.63 |    82.14 |     100 |   88.63 | 39,45,66,72,91              
  src/interfaces              |    83.9 |    76.56 |     100 |    83.9 |                             
@@ -43,8 +61,8 @@ All files                    |   62.68 |    56.31 |   71.98 |   62.68 |
   Semester.ts                |   85.71 |     62.5 |     100 |   85.71 | 73-76                       
 -----------------------------|---------|----------|---------|---------|-----------------------------
 
-Test Suites: 13 passed, 13 total
-Tests:       52 passed, 52 total
+Test Suites: 1 failed, 12 passed, 13 total
+Tests:       1 failed, 51 passed, 52 total
 Snapshots:   0 total
-Time:        13.209 s
+Time:        12.882 s
 Ran all test suites.
