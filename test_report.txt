@@ -14,16 +14,17 @@ PASS src/Tests/editSemester.test.tsx
 PASS src/Tests/editDegreePlan.test.tsx
 PASS src/Tests/viewCoursePool.test.tsx
 PASS src/Tests/viewCourse.test.tsx
+PASS src/Tests/ImportCSV.test.tsx
 PASS src/interfaces/Requirements.test.tsx
 PASS src/App.test.tsx
 -----------------------------|---------|----------|---------|---------|-----------------------------
 File                         | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s           
 -----------------------------|---------|----------|---------|---------|-----------------------------
-All files                    |   67.81 |    61.39 |   79.52 |   67.81 |                             
- src                         |   74.35 |    55.55 |      75 |   74.35 |                             
-  App.tsx                    |   74.35 |    55.55 |      75 |   74.35 | 37,40,43,58-59,62,67-69,102 
- src/Compontents             |   63.91 |    58.55 |   76.96 |   63.91 |                             
-  ImportCSV.tsx              |       0 |        0 |       0 |       0 | 29-172                      
+All files                    |   68.54 |    62.17 |   80.95 |   68.54 |                             
+ src                         |   76.92 |    66.66 |    87.5 |   76.92 |                             
+  App.tsx                    |   76.92 |    66.66 |    87.5 |   76.92 | 37,40,43,58-59,62,67-69     
+ src/Compontents             |   64.62 |    58.88 |   78.08 |   64.62 |                             
+  ImportCSV.tsx              |    5.88 |        2 |      20 |    5.88 | 29-119,125,149-169          
   addCourse.tsx              |   69.01 |    68.96 |      75 |   69.01 | 192-225,238,286,372,379,421 
   addDegreePlansList.tsx     |   69.23 |        0 |   71.42 |   69.23 | 47-51                       
   editCourse.tsx             |    87.5 |       60 |     100 |    87.5 | 35,41,47                    
@@ -45,8 +46,8 @@ All files                    |   67.81 |    61.39 |   79.52 |   67.81 |
   Semester.ts                |   85.71 |     62.5 |     100 |   85.71 | 73-76                       
 -----------------------------|---------|----------|---------|---------|-----------------------------
 
-Test Suites: 14 passed, 14 total
-Tests:       55 passed, 55 total
+Test Suites: 15 passed, 15 total
+Tests:       58 passed, 58 total
 Snapshots:   0 total
-Time:        15.437 s
+Time:        18.689 s
 Ran all test suites.
